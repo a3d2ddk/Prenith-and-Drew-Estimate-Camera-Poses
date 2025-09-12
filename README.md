@@ -2,7 +2,7 @@
 ---
 This repo is an an attempt to derrive camera pose from pre-derrived camera intrinsics and user selected points on an image with known parameters.
    
-## Installation Steps
+## Run Locally 
 ---
 1. **Clone the Repository**:
    ```bash
