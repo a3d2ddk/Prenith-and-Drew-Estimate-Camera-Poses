@@ -1,0 +1,9 @@
+Tool & Model
+Claude Sonnet 4.0
+
+Time used
+September 09 2025
+
+build me the base UI using gradio. I will manually build the components like pose estimation and reprojection just define those functions.
+componets of the UI are as follows image upload, points selectors, a button to clear the points from the image, textbox to show the loaded Intrinsics matrix
+, textbox to display the pose data from two methods, visualization for image overlay and camera in 3D
