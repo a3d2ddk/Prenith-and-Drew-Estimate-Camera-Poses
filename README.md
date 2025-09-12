@@ -44,3 +44,6 @@ This repo is an an attempt to derrive camera pose from pre-derrived camera intri
    - **OpenCV solvePnP**: Displays the results from OpenCV's pose estimation.
    - **Coordinate Axes Overlay**: Shows the coordinate axes overlay on the uploaded image.
    - **3D Camera Pose**: Visualizes the estimated camera pose in 3D.
+
+## Comparing Homography->pose and cv2->pose
+Allthough rotation and translation are different from both calculations, they were left this way on purpose. They relate to the pose of the camera realtive to the paper and the paper relative to the camera (homography and cv2 respectivly). These would allow the derrivations of camera placement as is shown in the ui, as well as transforming the image so that it looks flat, as if looking directly down on it.
