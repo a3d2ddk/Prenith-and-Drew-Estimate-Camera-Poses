@@ -34,7 +34,7 @@ This repo is an an attempt to derrive camera pose from pre-derrived camera intri
    Click on the image to select points. The points that should be selected are one square inward from the outer rectangle. These four corners will make a rectangle that is 5x8 squares. The pointa should be selected clockwise where the first two corners selected make the short side of the rectangle.
    Below is shown the correct selection of corners:
    
-   ![Example Image Points](exaple_points.jpg "Point Order")
+   ![Example Image Points](example_points.jpg "Point Order")
    
    The selected points will be displayed with small orange dots and mistakes can be undone or all points can be cleared with the relative buttons.
 
